@@ -15,9 +15,13 @@ Projects
 I've worked on a variety of projects, including:
 
 A web application that helps users track their finances.
+
 A machine learning model that predicts customer churn.
+
 A game that uses natural language processing to generate text.
+
 Driver Drowsiness Detection System
+
 I'm always looking for new projects to work on, and I'm always learning new things. If you have a project that you think I might be interested in, please let me know.
 
 Contact
