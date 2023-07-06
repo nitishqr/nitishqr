@@ -5,7 +5,8 @@
 I'm proficient in the following programming languages and frameworks:
 
 Python
-Java
+
+
 
 I'm also familiar with a variety of other technologies, such as machine learning, natural language processing.
 
