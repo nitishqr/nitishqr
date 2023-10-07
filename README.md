@@ -1,4 +1,6 @@
--![WhatsApp Image 2022-01-29 at 10 21 07 PM](https://github.com/nitishqr/nitishqr/assets/138806541/5cc199df-1d64-4bbe-aad9-12dc3cb7b815)
+
+![DSC_9238](https://github.com/nitishqr/nitishqr/assets/138806541/c894c213-2cf5-4286-be8c-b8bae2a20f83)
+
 
 -  👋  I'm Nitish Kumar, i am currently in 4th year of B.tech Computer science and engineering ,with a passion for software development. I'm currently looking for opportunities to apply my skills and knowledge in a real-world setting.
 
