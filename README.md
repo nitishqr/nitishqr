@@ -4,7 +4,7 @@
 
 -  👋  I'm Nitish Kumar, i am currently in 4th year of B.tech Computer science and engineering ,with a passion for software development. I'm currently looking for opportunities to apply my skills and knowledge in a real-world setting.
 
-I'm proficient in the following programming languages and frameworks:
+I'm proficient in the following programming languages:
 
 Python
 
